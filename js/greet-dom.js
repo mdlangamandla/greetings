@@ -67,7 +67,7 @@ greetbtn.addEventListener("click", function () {
     counter_div.innerHTML = amagama.getGreetCtr()
     nameFld.value = ''
     unchecked()
-
+    
 })
 
 function unchecked()

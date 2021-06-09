@@ -5,13 +5,29 @@
     display: flex;
     flex-flow: row;
 }
-.radio-greet-btn{
 
-    margin: 30px 30px ;
-    padding: 2em 2em;
+.IsiXhosa{
+    margin-left: 500px;
+    margin: bottom 25px;
+    text-align: center;
+    
+}
+.greetCtrl{
+    margin: 345px;
+    margin-top:550px;
+    margin-bottom: 150px;
+    display: flex;  
+ 
+}
+
+.center{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
     display: flex;
     flex-flow: row;
 }
+
 h1{
     font-size: 30px;
 }
@@ -19,8 +35,7 @@ h1{
 h4{
     font-family:Brush Script MT, Brush Script Std, cursive;
     font-weight: 200px;
-   
-
+  
 }
 
 h5{
@@ -68,6 +83,7 @@ h5{
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    font-size: x-large;
 }
 
 .error_mssg{
@@ -75,6 +91,7 @@ h5{
     margin-left: auto;
     margin-right: auto;
     color: red;  
+    font-size: x-large;
 }
 
 .greetBtn:hover{
@@ -98,13 +115,7 @@ body{
     
 }
 
-.center{
-    
-    margin-left: auto;
-    margin-right: auto;
-    display: flex;
-    flex-flow: row;
-}
+
 
 label{
     margin: 1em 1em;
